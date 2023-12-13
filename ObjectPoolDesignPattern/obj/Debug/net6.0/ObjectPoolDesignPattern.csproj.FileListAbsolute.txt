@@ -1,0 +1,14 @@
+C:\Users\mehme\OneDrive\Masaüstü\DesignPatterns\DesignPatterns\ObjectPoolDesignPattern\bin\Debug\net6.0\ObjectPoolDesignPattern.exe
+C:\Users\mehme\OneDrive\Masaüstü\DesignPatterns\DesignPatterns\ObjectPoolDesignPattern\bin\Debug\net6.0\ObjectPoolDesignPattern.deps.json
+C:\Users\mehme\OneDrive\Masaüstü\DesignPatterns\DesignPatterns\ObjectPoolDesignPattern\bin\Debug\net6.0\ObjectPoolDesignPattern.runtimeconfig.json
+C:\Users\mehme\OneDrive\Masaüstü\DesignPatterns\DesignPatterns\ObjectPoolDesignPattern\bin\Debug\net6.0\ObjectPoolDesignPattern.dll
+C:\Users\mehme\OneDrive\Masaüstü\DesignPatterns\DesignPatterns\ObjectPoolDesignPattern\bin\Debug\net6.0\ObjectPoolDesignPattern.pdb
+C:\Users\mehme\OneDrive\Masaüstü\DesignPatterns\DesignPatterns\ObjectPoolDesignPattern\obj\Debug\net6.0\ObjectPoolDesignPattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mehme\OneDrive\Masaüstü\DesignPatterns\DesignPatterns\ObjectPoolDesignPattern\obj\Debug\net6.0\ObjectPoolDesignPattern.AssemblyInfoInputs.cache
+C:\Users\mehme\OneDrive\Masaüstü\DesignPatterns\DesignPatterns\ObjectPoolDesignPattern\obj\Debug\net6.0\ObjectPoolDesignPattern.AssemblyInfo.cs
+C:\Users\mehme\OneDrive\Masaüstü\DesignPatterns\DesignPatterns\ObjectPoolDesignPattern\obj\Debug\net6.0\ObjectPoolDesignPattern.csproj.CoreCompileInputs.cache
+C:\Users\mehme\OneDrive\Masaüstü\DesignPatterns\DesignPatterns\ObjectPoolDesignPattern\obj\Debug\net6.0\ObjectPoolDesignPattern.dll
+C:\Users\mehme\OneDrive\Masaüstü\DesignPatterns\DesignPatterns\ObjectPoolDesignPattern\obj\Debug\net6.0\refint\ObjectPoolDesignPattern.dll
+C:\Users\mehme\OneDrive\Masaüstü\DesignPatterns\DesignPatterns\ObjectPoolDesignPattern\obj\Debug\net6.0\ObjectPoolDesignPattern.pdb
+C:\Users\mehme\OneDrive\Masaüstü\DesignPatterns\DesignPatterns\ObjectPoolDesignPattern\obj\Debug\net6.0\ObjectPoolDesignPattern.genruntimeconfig.cache
+C:\Users\mehme\OneDrive\Masaüstü\DesignPatterns\DesignPatterns\ObjectPoolDesignPattern\obj\Debug\net6.0\ref\ObjectPoolDesignPattern.dll

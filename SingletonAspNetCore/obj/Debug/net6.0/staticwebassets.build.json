@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "eHjR4+yeobyEQhtjnhln9vvWeVUQ8vIjGH3xxcZWIOY=",
+  "Source": "SingletonAspNetCore",
+  "BasePath": "_content/SingletonAspNetCore",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

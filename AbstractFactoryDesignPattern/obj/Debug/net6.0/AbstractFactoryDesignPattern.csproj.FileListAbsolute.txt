@@ -1,0 +1,14 @@
+C:\Users\mehme\OneDrive\Masaüstü\DesignPatterns\DesignPatterns\AbstractFactoryDesignPattern\bin\Debug\net6.0\AbstractFactoryDesignPattern.exe
+C:\Users\mehme\OneDrive\Masaüstü\DesignPatterns\DesignPatterns\AbstractFactoryDesignPattern\bin\Debug\net6.0\AbstractFactoryDesignPattern.deps.json
+C:\Users\mehme\OneDrive\Masaüstü\DesignPatterns\DesignPatterns\AbstractFactoryDesignPattern\bin\Debug\net6.0\AbstractFactoryDesignPattern.runtimeconfig.json
+C:\Users\mehme\OneDrive\Masaüstü\DesignPatterns\DesignPatterns\AbstractFactoryDesignPattern\bin\Debug\net6.0\AbstractFactoryDesignPattern.dll
+C:\Users\mehme\OneDrive\Masaüstü\DesignPatterns\DesignPatterns\AbstractFactoryDesignPattern\bin\Debug\net6.0\AbstractFactoryDesignPattern.pdb
+C:\Users\mehme\OneDrive\Masaüstü\DesignPatterns\DesignPatterns\AbstractFactoryDesignPattern\obj\Debug\net6.0\AbstractFactoryDesignPattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mehme\OneDrive\Masaüstü\DesignPatterns\DesignPatterns\AbstractFactoryDesignPattern\obj\Debug\net6.0\AbstractFactoryDesignPattern.AssemblyInfoInputs.cache
+C:\Users\mehme\OneDrive\Masaüstü\DesignPatterns\DesignPatterns\AbstractFactoryDesignPattern\obj\Debug\net6.0\AbstractFactoryDesignPattern.AssemblyInfo.cs
+C:\Users\mehme\OneDrive\Masaüstü\DesignPatterns\DesignPatterns\AbstractFactoryDesignPattern\obj\Debug\net6.0\AbstractFactoryDesignPattern.csproj.CoreCompileInputs.cache
+C:\Users\mehme\OneDrive\Masaüstü\DesignPatterns\DesignPatterns\AbstractFactoryDesignPattern\obj\Debug\net6.0\AbstractFactoryDesignPattern.dll
+C:\Users\mehme\OneDrive\Masaüstü\DesignPatterns\DesignPatterns\AbstractFactoryDesignPattern\obj\Debug\net6.0\refint\AbstractFactoryDesignPattern.dll
+C:\Users\mehme\OneDrive\Masaüstü\DesignPatterns\DesignPatterns\AbstractFactoryDesignPattern\obj\Debug\net6.0\AbstractFactoryDesignPattern.pdb
+C:\Users\mehme\OneDrive\Masaüstü\DesignPatterns\DesignPatterns\AbstractFactoryDesignPattern\obj\Debug\net6.0\AbstractFactoryDesignPattern.genruntimeconfig.cache
+C:\Users\mehme\OneDrive\Masaüstü\DesignPatterns\DesignPatterns\AbstractFactoryDesignPattern\obj\Debug\net6.0\ref\AbstractFactoryDesignPattern.dll

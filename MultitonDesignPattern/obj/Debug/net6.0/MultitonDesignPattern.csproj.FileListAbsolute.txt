@@ -1,0 +1,14 @@
+C:\Users\mehme\OneDrive\Masaüstü\DesignPatterns\DesignPatterns\MultitonDesignPattern\bin\Debug\net6.0\MultitonDesignPattern.exe
+C:\Users\mehme\OneDrive\Masaüstü\DesignPatterns\DesignPatterns\MultitonDesignPattern\bin\Debug\net6.0\MultitonDesignPattern.deps.json
+C:\Users\mehme\OneDrive\Masaüstü\DesignPatterns\DesignPatterns\MultitonDesignPattern\bin\Debug\net6.0\MultitonDesignPattern.runtimeconfig.json
+C:\Users\mehme\OneDrive\Masaüstü\DesignPatterns\DesignPatterns\MultitonDesignPattern\bin\Debug\net6.0\MultitonDesignPattern.dll
+C:\Users\mehme\OneDrive\Masaüstü\DesignPatterns\DesignPatterns\MultitonDesignPattern\bin\Debug\net6.0\MultitonDesignPattern.pdb
+C:\Users\mehme\OneDrive\Masaüstü\DesignPatterns\DesignPatterns\MultitonDesignPattern\obj\Debug\net6.0\MultitonDesignPattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mehme\OneDrive\Masaüstü\DesignPatterns\DesignPatterns\MultitonDesignPattern\obj\Debug\net6.0\MultitonDesignPattern.AssemblyInfoInputs.cache
+C:\Users\mehme\OneDrive\Masaüstü\DesignPatterns\DesignPatterns\MultitonDesignPattern\obj\Debug\net6.0\MultitonDesignPattern.AssemblyInfo.cs
+C:\Users\mehme\OneDrive\Masaüstü\DesignPatterns\DesignPatterns\MultitonDesignPattern\obj\Debug\net6.0\MultitonDesignPattern.csproj.CoreCompileInputs.cache
+C:\Users\mehme\OneDrive\Masaüstü\DesignPatterns\DesignPatterns\MultitonDesignPattern\obj\Debug\net6.0\MultitonDesignPattern.dll
+C:\Users\mehme\OneDrive\Masaüstü\DesignPatterns\DesignPatterns\MultitonDesignPattern\obj\Debug\net6.0\refint\MultitonDesignPattern.dll
+C:\Users\mehme\OneDrive\Masaüstü\DesignPatterns\DesignPatterns\MultitonDesignPattern\obj\Debug\net6.0\MultitonDesignPattern.pdb
+C:\Users\mehme\OneDrive\Masaüstü\DesignPatterns\DesignPatterns\MultitonDesignPattern\obj\Debug\net6.0\MultitonDesignPattern.genruntimeconfig.cache
+C:\Users\mehme\OneDrive\Masaüstü\DesignPatterns\DesignPatterns\MultitonDesignPattern\obj\Debug\net6.0\ref\MultitonDesignPattern.dll

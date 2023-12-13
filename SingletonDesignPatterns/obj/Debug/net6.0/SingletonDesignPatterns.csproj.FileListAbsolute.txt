@@ -1,0 +1,14 @@
+C:\Users\mehme\OneDrive\Masaüstü\DesignPatterns\DesignPatterns\SingletonDesignPatterns\bin\Debug\net6.0\SingletonDesignPatterns.exe
+C:\Users\mehme\OneDrive\Masaüstü\DesignPatterns\DesignPatterns\SingletonDesignPatterns\bin\Debug\net6.0\SingletonDesignPatterns.deps.json
+C:\Users\mehme\OneDrive\Masaüstü\DesignPatterns\DesignPatterns\SingletonDesignPatterns\bin\Debug\net6.0\SingletonDesignPatterns.runtimeconfig.json
+C:\Users\mehme\OneDrive\Masaüstü\DesignPatterns\DesignPatterns\SingletonDesignPatterns\bin\Debug\net6.0\SingletonDesignPatterns.dll
+C:\Users\mehme\OneDrive\Masaüstü\DesignPatterns\DesignPatterns\SingletonDesignPatterns\bin\Debug\net6.0\SingletonDesignPatterns.pdb
+C:\Users\mehme\OneDrive\Masaüstü\DesignPatterns\DesignPatterns\SingletonDesignPatterns\obj\Debug\net6.0\SingletonDesignPatterns.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mehme\OneDrive\Masaüstü\DesignPatterns\DesignPatterns\SingletonDesignPatterns\obj\Debug\net6.0\SingletonDesignPatterns.AssemblyInfoInputs.cache
+C:\Users\mehme\OneDrive\Masaüstü\DesignPatterns\DesignPatterns\SingletonDesignPatterns\obj\Debug\net6.0\SingletonDesignPatterns.AssemblyInfo.cs
+C:\Users\mehme\OneDrive\Masaüstü\DesignPatterns\DesignPatterns\SingletonDesignPatterns\obj\Debug\net6.0\SingletonDesignPatterns.csproj.CoreCompileInputs.cache
+C:\Users\mehme\OneDrive\Masaüstü\DesignPatterns\DesignPatterns\SingletonDesignPatterns\obj\Debug\net6.0\SingletonDesignPatterns.dll
+C:\Users\mehme\OneDrive\Masaüstü\DesignPatterns\DesignPatterns\SingletonDesignPatterns\obj\Debug\net6.0\refint\SingletonDesignPatterns.dll
+C:\Users\mehme\OneDrive\Masaüstü\DesignPatterns\DesignPatterns\SingletonDesignPatterns\obj\Debug\net6.0\SingletonDesignPatterns.pdb
+C:\Users\mehme\OneDrive\Masaüstü\DesignPatterns\DesignPatterns\SingletonDesignPatterns\obj\Debug\net6.0\SingletonDesignPatterns.genruntimeconfig.cache
+C:\Users\mehme\OneDrive\Masaüstü\DesignPatterns\DesignPatterns\SingletonDesignPatterns\obj\Debug\net6.0\ref\SingletonDesignPatterns.dll

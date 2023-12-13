@@ -1,0 +1,1 @@
+C:\Users\mehme\OneDrive\Masaüstü\DesignPatterns\DesignPatterns\SingletonDesingPatternTypeScript\obj\Debug\SingletonDesingPatternTypeScript.esproj.CoreCompileInputs.cache

@@ -1,0 +1,14 @@
+C:\Users\mehme\OneDrive\Masaüstü\DesignPatterns\DesignPatterns\SingletonDesignPatternAsync\bin\Debug\net6.0\SingletonDesignPatternAsync.exe
+C:\Users\mehme\OneDrive\Masaüstü\DesignPatterns\DesignPatterns\SingletonDesignPatternAsync\bin\Debug\net6.0\SingletonDesignPatternAsync.deps.json
+C:\Users\mehme\OneDrive\Masaüstü\DesignPatterns\DesignPatterns\SingletonDesignPatternAsync\bin\Debug\net6.0\SingletonDesignPatternAsync.runtimeconfig.json
+C:\Users\mehme\OneDrive\Masaüstü\DesignPatterns\DesignPatterns\SingletonDesignPatternAsync\bin\Debug\net6.0\SingletonDesignPatternAsync.dll
+C:\Users\mehme\OneDrive\Masaüstü\DesignPatterns\DesignPatterns\SingletonDesignPatternAsync\bin\Debug\net6.0\SingletonDesignPatternAsync.pdb
+C:\Users\mehme\OneDrive\Masaüstü\DesignPatterns\DesignPatterns\SingletonDesignPatternAsync\obj\Debug\net6.0\SingletonDesignPatternAsync.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mehme\OneDrive\Masaüstü\DesignPatterns\DesignPatterns\SingletonDesignPatternAsync\obj\Debug\net6.0\SingletonDesignPatternAsync.AssemblyInfoInputs.cache
+C:\Users\mehme\OneDrive\Masaüstü\DesignPatterns\DesignPatterns\SingletonDesignPatternAsync\obj\Debug\net6.0\SingletonDesignPatternAsync.AssemblyInfo.cs
+C:\Users\mehme\OneDrive\Masaüstü\DesignPatterns\DesignPatterns\SingletonDesignPatternAsync\obj\Debug\net6.0\SingletonDesignPatternAsync.csproj.CoreCompileInputs.cache
+C:\Users\mehme\OneDrive\Masaüstü\DesignPatterns\DesignPatterns\SingletonDesignPatternAsync\obj\Debug\net6.0\SingletonDesignPatternAsync.dll
+C:\Users\mehme\OneDrive\Masaüstü\DesignPatterns\DesignPatterns\SingletonDesignPatternAsync\obj\Debug\net6.0\refint\SingletonDesignPatternAsync.dll
+C:\Users\mehme\OneDrive\Masaüstü\DesignPatterns\DesignPatterns\SingletonDesignPatternAsync\obj\Debug\net6.0\SingletonDesignPatternAsync.pdb
+C:\Users\mehme\OneDrive\Masaüstü\DesignPatterns\DesignPatterns\SingletonDesignPatternAsync\obj\Debug\net6.0\SingletonDesignPatternAsync.genruntimeconfig.cache
+C:\Users\mehme\OneDrive\Masaüstü\DesignPatterns\DesignPatterns\SingletonDesignPatternAsync\obj\Debug\net6.0\ref\SingletonDesignPatternAsync.dll

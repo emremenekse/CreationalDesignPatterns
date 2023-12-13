@@ -1,0 +1,14 @@
+C:\Users\mehme\OneDrive\Masaüstü\DesignPatterns\DesignPatterns\AbstractFactoryDesignPatternEx\bin\Debug\net6.0\AbstractFactoryDesignPatternEx.exe
+C:\Users\mehme\OneDrive\Masaüstü\DesignPatterns\DesignPatterns\AbstractFactoryDesignPatternEx\bin\Debug\net6.0\AbstractFactoryDesignPatternEx.deps.json
+C:\Users\mehme\OneDrive\Masaüstü\DesignPatterns\DesignPatterns\AbstractFactoryDesignPatternEx\bin\Debug\net6.0\AbstractFactoryDesignPatternEx.runtimeconfig.json
+C:\Users\mehme\OneDrive\Masaüstü\DesignPatterns\DesignPatterns\AbstractFactoryDesignPatternEx\bin\Debug\net6.0\AbstractFactoryDesignPatternEx.dll
+C:\Users\mehme\OneDrive\Masaüstü\DesignPatterns\DesignPatterns\AbstractFactoryDesignPatternEx\bin\Debug\net6.0\AbstractFactoryDesignPatternEx.pdb
+C:\Users\mehme\OneDrive\Masaüstü\DesignPatterns\DesignPatterns\AbstractFactoryDesignPatternEx\obj\Debug\net6.0\AbstractFactoryDesignPatternEx.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mehme\OneDrive\Masaüstü\DesignPatterns\DesignPatterns\AbstractFactoryDesignPatternEx\obj\Debug\net6.0\AbstractFactoryDesignPatternEx.AssemblyInfoInputs.cache
+C:\Users\mehme\OneDrive\Masaüstü\DesignPatterns\DesignPatterns\AbstractFactoryDesignPatternEx\obj\Debug\net6.0\AbstractFactoryDesignPatternEx.AssemblyInfo.cs
+C:\Users\mehme\OneDrive\Masaüstü\DesignPatterns\DesignPatterns\AbstractFactoryDesignPatternEx\obj\Debug\net6.0\AbstractFactoryDesignPatternEx.csproj.CoreCompileInputs.cache
+C:\Users\mehme\OneDrive\Masaüstü\DesignPatterns\DesignPatterns\AbstractFactoryDesignPatternEx\obj\Debug\net6.0\AbstractFactoryDesignPatternEx.dll
+C:\Users\mehme\OneDrive\Masaüstü\DesignPatterns\DesignPatterns\AbstractFactoryDesignPatternEx\obj\Debug\net6.0\refint\AbstractFactoryDesignPatternEx.dll
+C:\Users\mehme\OneDrive\Masaüstü\DesignPatterns\DesignPatterns\AbstractFactoryDesignPatternEx\obj\Debug\net6.0\AbstractFactoryDesignPatternEx.pdb
+C:\Users\mehme\OneDrive\Masaüstü\DesignPatterns\DesignPatterns\AbstractFactoryDesignPatternEx\obj\Debug\net6.0\AbstractFactoryDesignPatternEx.genruntimeconfig.cache
+C:\Users\mehme\OneDrive\Masaüstü\DesignPatterns\DesignPatterns\AbstractFactoryDesignPatternEx\obj\Debug\net6.0\ref\AbstractFactoryDesignPatternEx.dll
